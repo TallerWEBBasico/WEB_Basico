@@ -1,0 +1,39 @@
+body{
+	background-image: url(../images/Hello_World.png);
+	background-position: center top;
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+    display: flex;
+    color: white;
+}
+body > header{
+	text-align: center;
+}
+section{
+	margin: 400px auto 0px auto;
+	width: 50%;
+}
+article{
+	display: inline-block;
+	padding: 10px;
+	width: 45%;
+}
+p{
+	text-align: justify;
+}
+img{
+	width: 50%;
+}
+section > header{
+	text-align: center;
+	color: red;
+}
+.icon{
+	color: yellow;
+	animation: float 1.5s ease-out infinite;
+}
+@keyframes float {
+    50% {
+        transform: translate(-20px, 0px);
+    }
+}

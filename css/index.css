@@ -1,0 +1,60 @@
+header > img{
+	width: 100%;
+}
+
+section{	
+	text-align: center;
+}
+
+article{
+	padding: 20px;	
+	display: inline-block;
+	width: 30%;
+}
+
+p{
+	text-align: justify;
+}
+
+article > header > p{
+	text-align: right;
+	font-size: 10px;
+}
+.animation_down_loop{
+	/*
+		Animacion construida a partir de la siguiente pagina
+		https://www.w3schools.com/css/css3_animations.asp
+		
+		La forma corta seria:
+
+		animation: kf_animation_down_loop 1.5s ease-out 2s infinite alternate;
+
+		En este ejemplo se usa la forma especifica para saber que parametros se estan utilizando
+	*/
+
+	animation-name: kf_animation_down_loop;
+    animation-duration: 1.5s;
+    animation-timing-function: ease-out;
+    animation-delay: 2s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+    /*
+    	animation-direction se usan los parametros alternate y reverse
+			- alternate: Cuando se cumple el tiempo especificado en la duracion, cambia de direccion, es decir regresa 
+			             a su estado original por el mismo camino;
+            - reverse: Inicia en direccion contraria a la indicada en el keyframe y su en caso de la propiedad iteration este en infinite ;
+    */
+
+	
+}
+@keyframes kf_animation_down_loop {
+	/*
+		Los % son la direccion que seguira la animacion, si la animation-direction esta asignada como alternate 
+		iniciara de 0% a 100% y estara alternando de direccion cada que llegue a 0% o a 100%, si esta asignada como
+		reverse comenzara de 100% a 0% y no cambiara nunca de direccion.
+	*/
+    50% {
+        transform: translate(0px, 10px);
+    }
+}
+
