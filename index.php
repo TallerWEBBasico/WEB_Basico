@@ -40,7 +40,7 @@
 				<p>
 					Ejemplo simple del MVC (Modelo Vista Controlador).
 				</p>
-				<span class="fa-arrow-down fa fa-2x"></span>
+				<span class="fa-arrow-down fa fa-2x">x</span>
 			</header>
 			<p>
 				Ejemplo para Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate sapiente distinctio ipsum, molestiae doloribus obcaecati accusamus inventore fugit dicta porro quam ipsa reprehenderit asperiores harum aperiam quia totam excepturi sunt.
