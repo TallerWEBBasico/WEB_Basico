@@ -50,7 +50,7 @@
 		<article>
 			<header>
 				<h1>
-					Articulo nuevo en rama 2
+					Articulo nuevo
 				</h1>				
 				<p>
 					Ejemplo simple del MVC (Modelo Vista Controlador).
