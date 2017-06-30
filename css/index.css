@@ -55,7 +55,7 @@ article > header > p{
 		reverse comenzara de 100% a 0% y no cambiara nunca de direccion.
 	*/
     50% {
-        transform: translate(0px, 10px);
+        transform: translate(0px, 100px);
     }
 }
 
