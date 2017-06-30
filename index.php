@@ -47,6 +47,21 @@
 			</p>
 		</article>
 
+		<article>
+			<header>
+				<h1>
+					Articulo nuevo en rama 2
+				</h1>				
+				<p>
+					Ejemplo simple del MVC (Modelo Vista Controlador).
+				</p>
+				<a href="#"><span class="animation_down_loop fa-arrow-down fa fa-2x"></span></a>
+			</header>
+			<p>
+				Ejemplo para Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate sapiente distinctio ipsum, molestiae doloribus obcaecati accusamus inventore fugit dicta porro quam ipsa reprehenderit asperiores harum aperiam quia totam excepturi sunt.
+			</p>
+		</article>
+
 	</section>
 </body>
 </html>
