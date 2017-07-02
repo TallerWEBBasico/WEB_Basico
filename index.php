@@ -71,7 +71,7 @@
 			</header>
 			<p>
 				Ejemplo para Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate sapiente distinctio ipsum, molestiae doloribus obcaecati accusamus inventore fugit dicta porro quam ipsa reprehenderit asperiores harum aperiam quia totam excepturi sunt.
-<<<<<<< HEAD
+
 			</p>
 		</article>
 
@@ -87,8 +87,6 @@
 			</header>
 			<p>
 				Ejemplo para Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate sapiente distinctio ipsum, molestiae doloribus obcaecati accusamus inventore fugit dicta porro quam ipsa reprehenderit asperiores harum aperiam quia totam excepturi sunt.
-=======
->>>>>>> origin/master
 			</p>
 		</article>
 	</section>
