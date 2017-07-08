@@ -12,6 +12,8 @@
 <body>
 	<header>
 		<img src="images/index_header.png" alt="imagen principal de WEB_Basico">
+		<img class="bat" src="images/Batman_Logo.png" alt="">
+		
 	</header>
 	<section>
 		<article>
@@ -71,7 +73,6 @@
 			</header>
 			<p>
 				Ejemplo para Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate sapiente distinctio ipsum, molestiae doloribus obcaecati accusamus inventore fugit dicta porro quam ipsa reprehenderit asperiores harum aperiam quia totam excepturi sunt.
-
 			</p>
 		</article>
 
@@ -88,8 +89,11 @@
 			<p>
 				Ejemplo para Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate sapiente distinctio ipsum, molestiae doloribus obcaecati accusamus inventore fugit dicta porro quam ipsa reprehenderit asperiores harum aperiam quia totam excepturi sunt.
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 
+>>>>>>> origin/master
+=======
 >>>>>>> origin/master
 			</p>
 		</article>

@@ -21,6 +21,24 @@ article > header > p{
 	font-size: 10px;
 }
 
+.bat{
+	width: 0px;
+	animation-name: kf_bat_animation;
+    animation-duration: 2s;
+    animation-timing-function: ease-in-out;
+    animation-delay: 1.5s;
+    /*animation-iteration-count: infinite;*/
+    /*animation-direction: reverse;*/
+    animation-fill-mode: forwards;
+}
+
+@keyframes kf_bat_animation {
+	100% {
+        transform: translate(100%, -200px);
+        width: 500px;
+    }
+}
+
 .animation_down_loop{
 	/*
 		Animacion construida a partir de la siguiente pagina
