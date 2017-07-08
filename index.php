@@ -12,6 +12,8 @@
 <body>
 	<header>
 		<img src="images/index_header.png" alt="imagen principal de WEB_Basico">
+		<img class="bat" src="images/Batman_Logo.png" alt="">
+		
 	</header>
 	<section>
 		<article>
